@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '=whe2sozmggyqsv1(6@(@lr_*2!r1*oej^v%5bpb&b%sb1(&jv'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rdstack.icardbox.top']
 
 
 # Application definition
@@ -101,7 +101,6 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
 
@@ -131,3 +130,10 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'server/static'),
 )
+
+
+try:
+    # pylint: disable=W0614, C0413, wildcard-import
+    from .local_settings import *  # noqa
+except ImportError:
+    pass
