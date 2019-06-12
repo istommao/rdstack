@@ -1,3 +1,6 @@
 [
-    {"name": "社区资讯", "icon": "linecons-star", "items": []}
+    {"name": "社区资讯", "icon": "linecons-star", "items": []},
+    {"name": "MOOC", "icon": "linecons-thumbs-up", "items": []},
+    {"name": "OJ平台", "icon": "linecons-thumbs-up", "items": []},
+    {"name": "在线工具", "icon": "linecons-thumbs-up", "items": []}
 ]

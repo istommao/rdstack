@@ -9,5 +9,213 @@
                 "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3151574761,783923687&fm=26&gp=0.jpg"
             }
         ]
+    },
+    {
+        "name": "MOOC",
+        "items": [
+            {
+                "name": "中国大学MOOC",
+                "intro": "中国大学MOOC",
+                "link": "https://www.icourse163.org/",
+                "icon": "https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100"
+            },
+
+            {
+                "name": "网易云课堂",
+                "intro": "网易云课堂",
+                "link": "https://study.163.com/"
+            },
+            {
+                "name": "幕课网",
+                "intro": "幕课网",
+                "link": "https://www.imooc.com/",
+                "icon": "https://www.imooc.com/static/img/common/touch-icon-iphone-retina.png"
+            },
+            {
+                "name": "网易云课堂",
+                "intro": "网易云课堂",
+                "link": "https://study.163.com/"
+            },
+            {
+                "name": "北大慕课",
+                "intro": "北大慕课",
+                "link": "http://mooc.pku.edu.cn/mooc/",
+                "icon": "https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=3a83dc81b4389b5038ffe754bd0e82e0/b21bb051f81986183a28291b47ed2e738ad4e6c6.jpg"
+            },
+            {
+                "name": "学堂在线",
+                "intro": "学堂在线",
+                "link": "http://www.xuetangx.com/",
+                "icon": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3841017232,2850157003&fm=26&gp=0.jpg"
+            },
+            {
+                "name": "优达学城",
+                "intro": "优达学城",
+                "link": "https://cn.udacity.com/",
+                "icon": "https://cn.udacity.com/favicon.ico"
+            },
+            {
+                "name": "coursera",
+                "intro": "coursera",
+                "link": "https://zh.coursera.org/"
+            },
+            {
+                "name": "腾讯课堂",
+                "intro": "腾讯课堂",
+                "link": "https://ke.qq.com/",
+                "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560359701292&di=29ebc2e4a9db469ed14c06dbcf9f0b2d&imgtype=0&src=http%3A%2F%2Fgss2.bdstatic.com%2F-fo3dSag_xI4khGkpoWK1HF6hhy%2Fbaike%2Fw%3D268%3Bg%3D0%2Fsign%3Dd81307c1da09b3deebbfe36ef4840bbc%2F622762d0f703918f2eb19d635a3d269759eec433.jpg"
+            },
+            {
+                "name": "实验楼",
+                "intro": "实验楼",
+                "link": "https://www.shiyanlou.com/",
+                "icon": "https://www.shiyanlou.com/favicon.ico"
+            },
+            {
+                "name": "牛客网",
+                "intro": "牛客网",
+                "link": "https://www.nowcoder.com/",
+                "icon": "https://static.nowcoder.com/images/logo_87_87.png"
+            },
+            {
+                "name": "可汗学院",
+                "intro": "可汗学院",
+                "link": "https://zh.khanacademy.org/",
+                "icon": "https://zh.khanacademy.org/favicon.ico?logo"
+            }
+
+        ]
+    },
+    {
+        "name": "OJ平台",
+        "items": [
+            {
+                "name": "ZOJ",
+                "intro": "浙江大学 Online Judge(ZOJ)",
+                "link": "http://acm.zju.edu.cn/onlinejudge/",
+                "icon": "http://poj.org/images/logo3.gif"
+            },
+            {
+                "name": "POJ",
+                "intro": "北京大学 POJ",
+                "link": "http://poj.org/",
+                "icon": "http://poj.org/images/logo3.gif"
+            },
+            {
+                "name": "hdu",
+                "intro": "杭州电子科技大学 OJ",
+                "link": "http://acm.hdu.edu.cn/",
+                "icon": "http://poj.org/images/logo3.gif"
+            },
+            {
+                "name": "uva",
+                "intro": "uva",
+                "link": "https://uva.onlinejudge.org/",
+                "icon": "https://uva.onlinejudge.org/templates/hm_yaml_2_5/img/onlinejudgelogo2.png"
+            },
+            {
+                "name": "topcoder",
+                "intro": "topcoder",
+                "link": "https://www.topcoder.com/",
+                "icon": "https://www.topcoder.com/wp-content/uploads/2019/03/Favicon128x128.png"
+            },
+            {
+                "name": "hihocoder",
+                "intro": "hihocoder",
+                "link": "http://www.hihocoder.com/",
+                "icon": "http://static.hihocoder.com/images/hiho.ico"
+            },
+            {
+                "name": "lintcode",
+                "intro": "lintcode",
+                "link": "http://www.lintcode.com/",
+                "icon": "https://www.lintcode.com/static/favicon.ico"
+            },
+            {
+                "name": "luogu",
+                "intro": "luogu",
+                "link": "https://www.luogu.org/",
+                "icon": "https://cdn.luogu.org/images/favicon3.ico"
+            },
+            {
+                "name": "leetcode-cn",
+                "intro": "leetcode-cn",
+                "link": "https://leetcode-cn.com/",
+                "icon": "https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-57x57.png"
+            }
+
+        ]
+    },
+    {
+        "name": "在线工具",
+        "items": [
+            {
+                "name": "smallpdf",
+                "intro": "在线PDF转换工具",
+                "link": "https://smallpdf.com/",
+                "icon": "https://smallpdf.com/favicon.png"
+            },
+            {
+                "name": "JPEG压缩",
+                "intro": "图片压缩",
+                "link": "https://compressjpeg.com/zh/",
+                "icon": "https://compressjpeg.com/images/compressjpeg/logo2.png"
+            },
+            {
+                "name": "ilovepdf",
+                "intro": "PDF在线管理工具",
+                "link": "https://www.ilovepdf.com/zh-cn",
+                "icon": "https://www.ilovepdf.com/img/app-icon.png"
+            },
+            {
+                "name": "jpeg io",
+                "intro": "Convert any major image format into a highly optimized JPEG",
+                "link": "https://www.jpeg.io/",
+                "icon": "https://www.jpeg.io/favicon.ico"
+            },
+            {
+                "name": "Convertio",
+                "intro": "文件转换器",
+                "link": "https://convertio.co/zh/",
+                "icon": "https://static.convertio.co/favicon.ico"
+            },
+            {
+                "name": "filesmerge",
+                "intro": "在线文件合并",
+                "link": "https://www.filesmerge.com/zh",
+                "icon": "https://www.filesmerge.com/img/favicon.ico"
+            },
+            {
+                "name": "声享",
+                "intro": "在线制作ppt",
+                "link": "https://ppt.baomitu.com/",
+                "icon": "https://s.ssl.qhimg.com/static/7cd9cb73bd4763d8.ico"
+            },
+            {
+                "name": "ShrinkMe",
+                "intro": "图片压缩",
+                "link": "https://shrinkme.app/",
+                "icon": "https://shrinkme.app/favicon/favicon-32x32.png"
+            },
+            {
+                "name": "tinypng",
+                "intro": "Smart PNG and JPEG compressio",
+                "link": "https://tinypng.com/",
+                "icon": "https://tinypng.com/images/apple-touch-icon.png"
+            },
+            {
+                "name": "压缩图",
+                "intro": "在线图片压缩",
+                "link": "https://www.yasuotu.com/",
+                "icon": "https://www.yasuotu.com/yasuotu/images/logo.png"
+            },
+            {
+                "name": "lightpdf",
+                "intro": "免费在线PDF编辑",
+                "link": "https://lightpdf.com/zh/",
+                "icon": "https://cdnimg.aoscdn.com/local/lightpdf.com/img/favicon.png"
+            }
+
+        ]
     }
 ]
